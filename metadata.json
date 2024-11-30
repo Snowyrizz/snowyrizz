@@ -1,0 +1,14 @@
+{
+  "name": "Snowy Rizz",
+  "symbol": "SNOWYRIZZ",
+  "uri": "https://github.com/Snowyrizz/snowyrizz/blob/main/snowyrizz.jpg?raw=true",
+  "external_url": "https://linktr.ee/snowyrizz",  // Add your website link here
+  "creators": null,
+  "collection": null,
+  "uses": null,
+  "properties": {
+    "website": "https://linktr.ee/snowyrizz",  // Your token's website link
+    "X / twitter": "https://x.com/Snowy_Rizz",  // Twitter link
+    "telegram": "http://t.me/+UaNY8gB9_m1mZTJh"  // Telegram link
+  }
+}
