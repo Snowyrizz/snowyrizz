@@ -1,7 +1,8 @@
 {
   "name": "Snowy Rizz",
   "symbol": "SNOWYRIZZ",
-  "uri": "https://github.com/Snowyrizz/snowyrizz/blob/main/snowyrizz.jpg?raw=true",
+  "uri": "https://raw.githubusercontent.com/Snowyrizz/snowyrizz/refs/heads/main/metadata.json",  // Points to this JSON file
+  "image": "https://github.com/Snowyrizz/snowyrizz/blob/main/snowyrizz.jpg?raw=true",
   "external_url": "https://linktr.ee/snowyrizz",  // Add your website link here
   "creators": null,
   "collection": null,
