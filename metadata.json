@@ -2,14 +2,5 @@
     "name": "Snowy Rizz",
     "symbol": "SNOWYRIZZ",
     "uri": "https://raw.githubusercontent.com/Snowyrizz/snowyrizz/refs/heads/main/metadata.json",
-    "image": "https://github.com/Snowyrizz/snowyrizz/blob/main/snowyrizz.jpg?raw=true",
-    "external_url": "https://linktr.ee/snowyrizz",
-    "creators": null,
-    "collection": null,
-    "uses": null,
-    "properties": {
-        "website": "https://linktr.ee/snowyrizz",
-        "X / twitter": "https://x.com/Snowy_Rizz",
-        "telegram": "http://t.me/+UaNY8gB9_m1mZTJh"
-    }
+    "image": "https://github.com/Snowyrizz/snowyrizz/blob/main/snowyrizz.jpg?raw=true"
 }
